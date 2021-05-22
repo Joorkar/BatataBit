@@ -1,2 +1,2 @@
 # BatataBit
-Proyecto de Joorkar copiando una web de visualización de las tazas de cambios en las criptomonedas. 
+Proyecto para poner en practica HTML5  y CSS3 desde el modelo de creación MobileFirst.
