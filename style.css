@@ -95,7 +95,7 @@ header img {
     width: 1.3rem;
     height: 0.8rem;
     margin-left: 1rem;
-    background-image: url('/assets/icons/arrowDown.svg');
+    background-image: url('./assets/icons/arrowDown.svg');
 }
 main {
     width: 100%;
@@ -121,7 +121,7 @@ main {
     height: 20rem;
     margin: 0 auto;
     margin-bottom: 5rem;
-    background-image: url('./assets/imgs/Bitcoin.png');
+    background-image: url('./assets/img/Bitcoin.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -374,7 +374,7 @@ main {
     width: 100%;
     min-width: 32rem;
     height: 60vh;
-    background-image: url('./assets/imgs/imgFondo.jpg');
+    background-image: url('./assets/img/imgFondo.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
